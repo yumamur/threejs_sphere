@@ -2,7 +2,6 @@ const sphereFragmentShader = `
 
 uniform vec3 u_color;
 uniform vec2 u_mouse;
-uniform bool u_mouse_is_on_sphere;
 
 uniform float u_time;
 uniform vec3 u_light1_position;

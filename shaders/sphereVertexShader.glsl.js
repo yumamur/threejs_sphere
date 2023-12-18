@@ -1,10 +1,6 @@
 const sphereVertexShader = `
 
 uniform vec2 u_mouse;
-uniform vec2 u_pattern_seeds;
-uniform bool u_mouse_leftbutton_pressed;
-uniform bool u_mouse_rightbutton_pressed;
-uniform bool u_mouse_is_on_sphere;
 
 uniform float u_time;
 
